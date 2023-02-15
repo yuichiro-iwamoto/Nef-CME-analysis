@@ -1,7 +1,7 @@
 # Nef-CME-analysis
 ImageJ scripts and python notebooks used for image analysis in HIV Nef CME project.
 
-ImageJ_scripts_HIV_Nef_CME: 
+*ImageJ_scripts_HIV_Nef_CME:* 
 
   These scripts can be run in imageJ. The scripts include basic image processing scripts and scripts used for evaluating colocalization. Instructions can be 
 found commented on the scripts themselves for the colocalization scripts. 
