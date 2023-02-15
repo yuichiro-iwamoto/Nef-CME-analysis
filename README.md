@@ -1,5 +1,5 @@
 # Nef-CME-analysis
-ImageJ scripts and python notebooks used for image analysis in HIV Nef CME project.
+ImageJ scripts, MATLAB scripts, and python notebooks used for image analysis in HIV Nef CME project.
 
 **ImageJ_scripts_HIV_Nef_CME:** 
 
